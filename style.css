@@ -1,0 +1,236 @@
+.div1-bg{
+    background-color: #316DC3;
+    /* padding: 10px 0px 13px 0px; */
+}
+.div1-img{
+    margin-right: 10px;
+}
+.div1-t{
+    color: white; 
+    font-size: 14px; 
+    font-family: sans-serif;
+}
+.div1-links{
+    background-color: #f5f5f5; 
+    color: #427900; 
+    border-color: #ccc; 
+    font-size: 11px; 
+    padding: 7px 13px 7px 13px;
+}
+.div1-links:hover{
+    text-decoration: none;
+}
+
+.div2-bg{
+    background-color: #f7f8fa;
+    /* padding: 10px 0px 10px 50px; */
+}
+.div2-border{
+    border-bottom: 1px solid #eee;
+}
+.div2-img{
+    height: 50px;
+    /* width: 80%;
+    height: 80%; */
+}
+.div2-menu{
+    display: inline-block; 
+    color: #333333; 
+    font-size: 13px; 
+    padding: 8px 16px; 
+    border-radius: 30px; 
+    font-family: sans-serif;
+}
+.div2-menu:hover{
+    background-color: #316DC3;
+    color: #fff !important;
+    cursor: pointer;
+}
+
+/* .div3-img{
+    width: 100%; 
+    height: 100%;
+} */
+
+.div4-t{
+    background-color: #316DC3 ;
+    color: white;
+    padding: 2px;
+    width: 100%;
+    /* margin: 10px auto; */
+}
+
+.div5-bg{
+    background-color: #f7f8fa; 
+    text-align: center;
+}
+.div5-t{
+    font-size: 2rem; 
+    line-height: 1.4; 
+    font-weight: 600; 
+    font-family: 'Merriweather',serif; 
+    color: #316DC3; 
+    display: inline-block;
+}
+/* .div5-t2bg{
+    background-color: #f7f8fa; 
+    text-align: center; 
+    width: 100%; 
+    margin: auto; 
+    text-align: justify;
+} */
+.div5-t2{
+    /* padding: 0px 40px 0px 40px;  */
+    text-align: justify;
+    font-size: 14px; 
+    font-family:sans-serif; 
+    color: #666666; 
+    line-height: 1.9;
+    /* width: 100%; */
+}
+
+.div6-bg{
+    background-color: rgba(36, 79, 242, 1.8);
+}
+.div6-pd{
+    padding: 70px 50px 90px 50px; 
+    text-align: center;
+}
+.div6-td{
+    padding-right: 90px;
+}
+.div6-td2{
+    /* padding-right: 90px;  */
+    color: white; 
+    font-size: 50px;
+}
+.div6-td3{
+    /* padding-right: 90px;  */
+    color: white; 
+    font-size: 20px;
+}
+.div6-td3-2{
+    font-weight: 600; 
+    color: #00FF00; 
+    /* display: inline; */
+}
+
+.div7-bg{
+    background-color: #f7f8fa; 
+    /* text-align: center; 
+    padding-top: 30px;
+    padding-right: 20px !important;
+    padding-bottom: 30px;
+    padding-left: 20px !important; */
+}
+.div7-t{
+    font-size: 2rem; 
+    line-height: 1.4; 
+    font-weight: 600; 
+    font-family: 'Merriweather',serif; 
+    color: #316DC3; 
+    display: inline-block;
+}
+.div7-bg2{
+    background-color: white; 
+    /* width: 350px;  
+    margin-right: 20px; 
+    padding: 25px 60px 25px 60px; 
+    display: inline-block;  */
+}
+.div7-t2{
+    color: #316DC3;
+}
+
+.div8-bg{
+    background-color: white; 
+    /* padding-top: 50px;
+    padding-right: 50px !important; 
+    padding-bottom: 50px;
+    padding-left: 50px !important; */
+}
+.div8-t{
+    color: #316DC3; 
+    font-size: 26px; 
+    /* display: inline-block; */
+}
+.div8-bg2{
+    border: 1px solid #eee; 
+    background-color: #f7f8fa; 
+    /* width: 370px; 
+    padding: 16px 16px 16px 16px;  */
+}
+.div8-t2{
+    color: #316DC3; 
+    display: inline-block;
+    font-size: 15px;
+}
+.div8-img{
+    margin-right: 20px;
+}
+.div8-t3{
+    color: #666666; 
+    line-height: 1.7; 
+    font-size: 14px; 
+    font-family: sans-serif; 
+}
+
+.div9-bg{
+    background-color: white;
+}
+/* .div9-tc{
+    text-align: center;
+} */
+/* .div9-t{
+    font-size: 2rem; 
+    line-height: 1.4; 
+    font-weight: 600; 
+    font-family: 'Merriweather',serif; 
+    color: #316DC3; 
+    display: inline-block;
+} */
+.div9-img{
+    width: 100%;
+}
+
+.div10-bg{
+    background-color: rgb(37,39,46);
+}
+.div10-t{
+    font-family: 'Open Sans',sans-serif; 
+    font-size: 14px; 
+    line-height: 1.8; 
+    /* padding-top: 45px;  */
+    color: #bbb;
+}
+.div10-t2{
+    /* padding-top: 20px; 
+    padding-bottom: 10px;  */
+    border-bottom: 1px solid #444; 
+    font-size: 17px; 
+    line-height: 1.4; 
+    font-weight: 600; 
+    font-family: 'Merriweather',serif; 
+    color: #fff;
+}
+.div10-t3{
+    /* padding-top: 20px;  */
+    font-size: 17px; 
+    line-height: 1.4; 
+    font-weight: 600; 
+    font-family: 'Merriweather',serif; 
+    color: #fff;
+}
+.div10-img{
+    margin-right: 17px;
+}
+
+.div11-bg{
+    background-color: #316DD9;
+}
+.div11-t{
+    /* padding: 15px 0px 10px 0px;  */
+    font-size: 13px; 
+    font-family: 'Open Sans'; 
+    color:white;
+}
